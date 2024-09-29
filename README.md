@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Aditya</h1>
-# 💫 About Me:
+![alt text](https://github.com/pawanaditya85/pawanaditya85/blob/6526341e758723b2657bd56bd1c6a28955561e17/1.png)
+ 💫 About Me:
 Graduate Student at San Jose State University<br>Seeking for Internship opportunities for Summer 2025<br>Looking forward to connect and collaborate 
 
 
