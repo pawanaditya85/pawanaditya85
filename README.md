@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Aditya</h1>
-![alt text](https://github.com/pawanaditya85/pawanaditya85/blob/6526341e758723b2657bd56bd1c6a28955561e17/1.png)
  💫 About Me:
+ 
 Graduate Student at San Jose State University<br>Seeking for Internship opportunities for Summer 2025<br>Looking forward to connect and collaborate 
 
 
@@ -16,12 +16,6 @@ Graduate Student at San Jose State University<br>Seeking for Internship opportun
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pawanaditya85&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pawanaditya85&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pawanaditya85&icon=0&color=0)](https://visitcount.itsvg.in)
