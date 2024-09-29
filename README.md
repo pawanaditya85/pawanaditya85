@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Aditya</h1>
+
+![pic](/pawanaditya85/1.png)
+
  💫 About Me:
  
 Graduate Student at San Jose State University<br>Seeking for Internship opportunities for Summer 2025<br>Looking forward to connect and collaborate 
