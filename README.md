@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Aditya</h1>
 
-![pic](/pawanaditya85/KV.jpeg)
+![pic](/KV.jpeg)
 
  💫 About Me:
  
